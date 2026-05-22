@@ -1,16 +1,89 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Inshal Zakir</h1>
 
-<!--
-**Inshal28-AI/Inshal28-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
 
-Here are some ideas to get you started:
+AI/ML Engineer | GenAI Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</h3>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Real-World+AI+Systems;GenAI+%26+LLM+Applications;Machine+Learning+for+Impact;Healthcare+AI+Solutions&center=true&size=20">
+
+</p>
+
+
+
+---
+
+
+
+## 🚀 About Me
+
+AI/ML Engineer focused on building real-world machine learning systems and GenAI applications.  
+
+I work on LLM-based solutions, RAG pipelines, and applied machine learning systems that solve practical problems.
+
+
+
+- 🤖 AI/ML Engineer focused on end-to-end machine learning systems and real-world applications
+
+- 🧠 GenAI Developer working with LLMs, RAG pipelines, and prompt engineering  
+
+- 🏥 Developed an advanced healthcare AI system using LLMs and RAG   
+
+- ⚙️ Focused on building impactful AI systems, not just models  
+
+
+
+---
+
+
+
+## 🧠 Tech Stack
+
+  
+
+### 🤖 Core AI / ML
+Python • Scikit-learn • TensorFlow • PyTorch • NumPy • Pandas • SQL • Plotly • Matplotlib • Seaborn
+
+
+### 🧬 GenAI & LLM Architecture
+LangChain • OpenAI API • Hugging Face • FAISS • RAG Pipelines • Prompt Engineering
+
+
+### ⚙️ Tools & Development
+
+Git • GitHub • Streamlit • FastAPI • Docker  
+
+
+---
+
+
+
+## 🚀 Experience
+
+
+
+### 🏆 GenAI Hackathon — Pak Angels (2026)
+- Built **MediLink AI**, a multi-module healthcare AI system using LLMs and RAG  
+- Designed **Pathogen Navigator** for medical reasoning and disease exploration  
+- Developed **Prescription Guard** for safety-focused medication recommendations  
+- Worked with WHO healthcare datasets and implemented retrieval-based reasoning systems
+
+---
+
+
+
+## 📂 Featured Projects
+
+- 🏥 **MediLink AI** — Healthcare AI system using LLMs + RAG for clinical decision support, featuring Pathogen Navigator and Prescription Guard modules for medical reasoning and safety-focused recommendations.  
+  🔗 [Project Link](LINK_TO_MEDILINK_AI)
+- 🧾 Resume Screening AI — ML-based job matching system using TF-IDF + cosine similarity  
+
+- 🖼️ Image Classification CNN — Deep learning model for multi-class image classification  
+
+- 💬 Sentiment Analysis System — NLP classifier using Logistic Regression (3-class model)  
+
+
+🎯 Building AI systems that solve real-world problems.
