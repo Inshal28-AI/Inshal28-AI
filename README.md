@@ -80,5 +80,6 @@ Git • GitHub • Streamlit • FastAPI • Docker
 
 - 💬 Sentiment Analysis System — NLP classifier using Logistic Regression (3-class model)  
 
+---
 
 🎯 Building AI systems that solve real-world problems.
