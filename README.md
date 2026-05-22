@@ -7,15 +7,11 @@ AI/ML Engineer | GenAI Developer
 </h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Real-World+AI+Systems;GenAI+%26+LLM+Applications;Machine+Learning+for+Impact;Healthcare+AI+Solutions&center=true&size=20">
-
+<strong>Building end-to-end intelligent systems with LLMs, RAG pipelines, and applied machine learning.</strong>
 </p>
 
 
-
 ---
-
 
 
 ## 🚀 About Me
@@ -78,7 +74,6 @@ Git • GitHub • Streamlit • FastAPI • Docker
 ## 📂 Featured Projects
 
 - 🏥 **MediLink AI** — Healthcare AI system using LLMs + RAG for clinical decision support, featuring Pathogen Navigator and Prescription Guard modules for medical reasoning and safety-focused recommendations.  
-  🔗 [Project Link](LINK_TO_MEDILINK_AI)
 - 🧾 Resume Screening AI — ML-based job matching system using TF-IDF + cosine similarity  
 
 - 🖼️ Image Classification CNN — Deep learning model for multi-class image classification  
