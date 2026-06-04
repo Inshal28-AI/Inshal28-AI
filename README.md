@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Inshal Zakir</h1>
 
 <h3 align="center">
@@ -14,21 +15,24 @@ AI/ML Engineer | GenAI Developer
 ---
 
 
-## 🚀 About Me
+## 👩🏻‍💻 About Me
 
-AI/ML Engineer focused on building real-world machine learning systems and GenAI applications.  
+Aspiring AI/ML Engineer building machine learning and generative AI applications. 
+Focused on LLMs, RAG architectures, and intelligent systems that combine retrieval, reasoning, and machine learning to solve real-world problems.
 
-I work on LLM-based solutions, RAG pipelines, and applied machine learning systems that solve practical problems.
+Currently building InterviewIQ — an AI mock interview platform using React, FastAPI, and LLM APIs.
 
+## ⚡ Recent Experience
 
+* **GenAI Hackathon — Pak Angels (2026):** Developed *MediLink AI*, a multi-module healthcare AI system leveraging LLMs, RAG architectures, and WHO healthcare datasets.
 
-- 🤖 AI/ML Engineer focused on end-to-end machine learning systems and real-world applications
+## 🎯 Interests & Focus
 
-- 🧠 GenAI Developer working with LLMs, RAG pipelines, and prompt engineering  
-
-- 🏥 Developed an advanced healthcare AI system using LLMs and RAG   
-
-- ⚙️ Focused on building impactful AI systems, not just models  
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Machine Learning & Deep Learning
+- Generative-AI Applications
+- Production-Ready AI Systems  
 
 
 
@@ -40,46 +44,19 @@ I work on LLM-based solutions, RAG pipelines, and applied machine learning syste
 
   
 
-### 🤖 Core AI / ML
+### Core AI / ML
 Python • Scikit-learn • TensorFlow • PyTorch • NumPy • Pandas • SQL • Plotly • Matplotlib • Seaborn
 
 
-### 🧬 GenAI & LLM Architecture
+### GenAI & LLM Architecture
 LangChain • OpenAI API • Hugging Face • FAISS • RAG Pipelines • Prompt Engineering
 
 
-### ⚙️ Tools & Development
+### Tools & Development
 
 Git • GitHub • Streamlit • FastAPI • Docker  
 
 
 ---
 
-
-
-## 🚀 Experience
-
-
-
-### 🏆 GenAI Hackathon — Pak Angels (2026)
-- Built **MediLink AI**, a multi-module healthcare AI system using LLMs and RAG  
-- Designed **Pathogen Navigator** for medical reasoning and disease exploration  
-- Developed **Prescription Guard** for safety-focused medication recommendations  
-- Worked with WHO healthcare datasets and implemented retrieval-based reasoning systems
-
----
-
-
-
-## 📂 Featured Projects
-
-- 🏥 **MediLink AI** — Healthcare AI system using LLMs + RAG for clinical decision support, featuring Pathogen Navigator and Prescription Guard modules for medical reasoning and safety-focused recommendations.  
-- 🧾 Resume Screening AI — ML-based job matching system using TF-IDF + cosine similarity  
-
-- 🖼️ Image Classification CNN — Deep learning model for multi-class image classification  
-
-- 💬 Sentiment Analysis System — NLP classifier using Logistic Regression (3-class model)  
-
----
-
-🎯 Building AI systems that solve real-world problems.
+🚀 Building AI systems that solve real-world problems.
